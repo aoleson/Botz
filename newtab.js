@@ -5,7 +5,7 @@
 ***********************************************/
 
 //These constants hold filepaths to the different images that can be displayed.
-const Bot1 = "./icon.png";                  //TODO: Create images and put the correct paths here.
+const Bot1 = "./icon.svg";                  //TODO: Create images and put the correct paths here.
 const Bot2 = "";
 const Bot3 = "";
 
